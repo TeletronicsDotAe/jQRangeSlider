@@ -7,5 +7,6 @@
 /jQAllRangeSliders-min.js
 /node_modules/
 /out/
-/dest/
 /*.2.9-1.zip
+bower_components
+packages
